@@ -1,0 +1,134 @@
+html {
+	font-family: serif;
+	background-image: url(tima.jpg);
+	font-size: 20px;
+	
+	border-radius: 50px: 
+}
+
+
+/*tentando deixar a lista do lado do link*/
+.lista {
+	
+	text-align: justify-all;
+	display: inline-block;
+    vertical-align: top; 
+    margin-right: -40px;
+    list-style-type: none;
+    
+    
+
+    
+}
+.ti {
+	height: 5px;
+	padding: 10px;
+	text-align: center;
+	font-size: 30px;
+	justify-content: center;
+
+}
+.music { 
+	font-size: 27px;
+	background-color: #1ed760;
+
+}
+
+
+.tudodapágina {
+	max-width: 1200px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 50px;
+	background-color: #e0e0e0;
+}
+
+.destaque {
+	font-weight: bold;
+	font-size: 19px;
+}
+/*cabeçalho*/
+.cabeçalho {
+	text-align: center;
+}
+.titulo-principal {
+	font-size: 70px;
+}
+.paragrafo-cabeçalho {
+	font-style: italic;
+	font-size: 30px;
+}
+
+.foto1 {
+
+	text-align: center;
+	margin-top: 30px;
+
+}
+.tim {
+	font-style: italic;
+	font-weight: bold;
+
+}
+.citação {
+
+	font-style: italic;
+	font-size: 20px;
+	
+	
+
+}
+.cit {
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	border: 8px;
+	border-style: double; 
+	padding: 20px 20px 20px 20px;
+	height: 10px 10px 10px 10px;
+	border-radius: 250px;
+
+	background-color: #F5F5DC
+
+
+}
+.ouça {
+
+	
+	margin: 200px 20px 200px 450px;
+    border: 8px;
+    border-style: solid; 
+    padding: 50px 110px 80px 80px;
+    height: 20px 20px 20px 80px;
+    width: 70px;
+    background-color: #1ed760;
+    border-radius: 500px;
+    justify-content: center;
+    align-items: center; 
+
+
+}
+
+.ouva {
+	font-family: 'EB Garamond', serif;
+}
+
+.meio {
+	text-align: center;
+}
+.figure-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .figure-container a {
+    display: block;
+  }
+  
+  .figure-container figcaption {
+
+    position: absolute;
+    top: 0;
+    left: 100%;
+    padding-left: 10px;  }
+
